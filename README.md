@@ -1,16 +1,17 @@
 <h2 align="left">Hi there 👋,</h2>
 
-👨‍💻 *Ambitious developer passionate about `learning` and `growth`.*
+👨‍💻 *Welcome to my project dump space* 🗑️
 
 ---
 
-📊 **This week i spent my time on:**
+📊 **successfully wasted my time on:**
 <!--start-->
 
 ```txt
-TypeScript   18 hrs 36 mins  ████████████████████████░   92.01 %
-HTML         58 mins         ▒▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python      12 hrs 00 mins   ███████████████░░░░░░░░░░   60.00 %
+TypeScript   6 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
+HTML         1 hrs 36 mins   ▒▒░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+JSON         48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
